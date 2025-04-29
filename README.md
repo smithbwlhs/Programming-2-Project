@@ -1,2 +1,3 @@
-# Programming-2-Project
-My final project for Computer Programing 2 at WLHS
+# My Game
+
+This is my game I created using PyGame
